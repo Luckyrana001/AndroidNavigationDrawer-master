@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/sidebar_home"
+            android:title="Account"
+            />
+       <!-- <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/sidebar_messages"
+            android:title="Message" />
+        <item
+            android:id="@+id/nav_painc"
+            android:icon="@drawable/sidebar_journey"
+            android:title="Train Stations" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/train_schedule"
+            android:title="Train Timings" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/sidebar_profile"
+            android:title="Profile" />-->
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/sidebar_logout"
+            android:title="Log Out" />
+    </group>
+
+</menu>
